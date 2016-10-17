@@ -10,6 +10,7 @@ This code book summarizes the resulting data fields in tidy.txt produced by run_
 ### Activity Label for corresponding measurements
 
 :heavy_minus_sign: 1 - WALKING: The subject was walking in a normal fashion during the test.
+
 :heavy_minus_sign: 2 - WALKING_UPSTAIRS: The subject was ascending a staircase at a walking during the test.
 :heavy_minus_sign: 3 - WALKING_DOWNSTAIRS: The subject was descending a staircase at a walking pace during the test.
 :heavy_minus_sign: 4 - SITTING: The subject was stationary in a sitting posture during the test.
